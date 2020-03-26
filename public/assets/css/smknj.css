@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+}
+#nav-pertama{
+    position: relative;
+    background: #2c3e50;
+    overflow: hidden;
+    font-size: 11px;
+    color: white;
+    padding: 10px;    
+}
+.ul-1{
+    padding: none;
+    margin: 0;
+
+}
+
+.item-1{
+    list-style-type: none;
+    display: inline;
+    margin-left: 20px;
+}
+.item-1 a{
+    transition: .2s;
+    color: white;
+
+}
+.item-1 a:hover{
+    text-decoration: none;
+    color: #f1c40f;
+}
+#logo-header{
+    position: absolute;
+    top: 0;left: 30px;
+    z-index: 110;
+}
+
+#nav-kedua{
+    background-color: #34495e;
+    color: white;
+    padding: 20px;
+    font-size: 11px;
+}
+
+.item-3{
+    color: #666;
+    background-color: #333;
+    border:none;
+    border-radius: 10px;
+    padding:10px 10px;
+}
+.item-3::placeholder {
+    color: #666;
+    font-size: 12px;
+}
+.item-4{
+    background: none;
+    border:none;
+    position: absolute;
+    color:#777;
+    top: -3px;right: 7px;
+    transition: .2s;
+    cursor: pointer;
+}
+.item-4:hover{
+    color: #999;
+}
+textarea:hover, 
+input:hover, 
+textarea:active, 
+input:active, 
+textarea:focus, 
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active,
+.btn.active
+{
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
+.ul-2{
+    padding: none;
+    margin: 0;
+    padding-right: 20px;
+}
