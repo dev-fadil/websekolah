@@ -27,7 +27,7 @@ php artisan serve
 
 ## Contributing
 
-Fot Website [SMK Nurul Jadid](https://www.smknj.sch.id/).
+For Website [SMK Nurul Jadid](https://www.smknj.sch.id/).
 
 ## Programer
 
